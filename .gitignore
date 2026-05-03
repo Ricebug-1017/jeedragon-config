@@ -1,0 +1,27 @@
+# Video files
+*.mp4
+*.mov
+*.avi
+*.mkv
+
+# Frame directories
+*_frames/
+*_prompts.json
+frames_test/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# OpenClaw
+.clawhub/
+.openclaw/
+memory/
+MEMORY.md
+HEARTBEAT.md
+douyin_*
